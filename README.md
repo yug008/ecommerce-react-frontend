@@ -6,25 +6,25 @@ It consumes the Spring Boot backend APIs to manage products and demonstrates cle
 
 🚀 Features:
 
-•Display products from backend API
+• Display products from backend API
 
-•Add products to cart
+• Add products to cart
 
-•Simple navigation and responsive UI
+• Simple navigation and responsive UI
 
-•API integration with Spring Boot backend
+• API integration with Spring Boot backend
 
 🛠 Tech Stack:
 
-•Language: JavaScript
+• Language: JavaScript
 
-•Framework: React (Vite)
+• Framework: React (Vite)
 
-•Styling: CSS / React components
+• Styling: CSS / React components
 
-•Build Tool: npm / Node.js
+• Build Tool: npm / Node.js
 
-•API Communication: Axios / Fetch API
+• API Communication: Axios / Fetch API
 
 📁 Project Structure:
 
@@ -39,37 +39,37 @@ Components folder contains UI components like Navbar, Home, Cart, etc.
 
 ⚙️ Setup & Run:
 
-•Clone the repository - git clone https://github.com/yug008/ecommerce-react-frontend.git
+• Clone the repository - git clone https://github.com/yug008/ecommerce-react-frontend.git
 
-•Install dependencies - npm install
+• Install dependencies - npm install
 
-•Run the application - npm run dev
+• Run the application - npm run dev
 
-•App will run on: http://localhost:5173
+• App will run on: http://localhost:5173
 
-•Make sure the backend is running at http://localhost:8080 for API calls.
+• Make sure the backend is running at http://localhost:8080 for API calls.
 
 🔗 Related Repository:
 
-•Backend (Spring Boot): https://github.com/yug008/ecommerce-springboot-backend
+• Backend (Spring Boot): https://github.com/yug008/ecommerce-springboot-backend
 
 🔧 Known Limitations:
 
-•Image upload functionality is under development
+• Image upload functionality is under development
 
-•Cart functionality is basic
+• Cart functionality is basic
 
-•Some UI elements are partial or static
+• Some UI elements are partial or static
 
 📌 Future Improvements:
 
-•Complete image upload and product management
+• Complete image upload and product management
 
-•Add authentication and user management
+• Add authentication and user management
 
-•Improve styling and responsive UI
+• Improve styling and responsive UI
 
-•Connect with a production-ready backend database
+• Connect with a production-ready backend database
 
 👤 Author
 
