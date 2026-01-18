@@ -2,7 +2,7 @@
 This repository contains the frontend implementation of an e-commerce application built using React and Vite.
 It consumes the Spring Boot backend APIs to manage products and demonstrates clean frontend architecture using modern React practices.
 
-⚠️ This is a partial implementation. Some features like image upload may not be fully functional.
+⚠️ This is a partial implementation. Some features like image upload are not fully functional.
 
 🚀 Features:
 
